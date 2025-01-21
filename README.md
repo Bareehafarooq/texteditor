@@ -1,1 +1,1 @@
-# texteditor
+This project, completed during third semester, involved the application of concepts from the Data structure and algorithm Programming course. It was a solo endeavor aimed at designing and developing an application for text editing.
